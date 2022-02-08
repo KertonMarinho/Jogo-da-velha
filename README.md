@@ -1,2 +1,2 @@
 # Jogo da velha
-![screenshorts](/screenshort.png)
+![screenshorts](/screenshorts.png)
